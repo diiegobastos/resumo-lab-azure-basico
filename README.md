@@ -38,76 +38,58 @@ Exemplos: Microsoft 365, Outlook, OneDrive
 
 # Tipos de Nuvem
 
-Nuvem Pública: Recursos compartilhados, gerenciados por provedores como azure, aws, gcp
-Nuvem Privada: Recursos dedicados a uma organização, onde ela gerencia tudo.
-Nuvem Híbrida: Combinação de nuvem pública e privada
+- Nuvem Pública: Recursos compartilhados, gerenciados por provedores como azure, aws, gcp
+- Nuvem Privada: Recursos dedicados a uma organização, onde ela gerencia tudo.
+- Nuvem Híbrida: Combinação de nuvem pública e privada
 
 # Componentes Arquiteturais
 
-Regiões: Localizações geográficas dos data centers
-Zonas de Disponibilidade: Data centers separados dentro de uma região
-Grupos de Recursos: Contêineres para recursos relacionados
-Assinaturas: Unidade de cobrança e gerenciamento
+- Regiões: Localizações geográficas dos data centers
+- Zonas de Disponibilidade: Data centers separados dentro de uma região
+- Grupos de Recursos: Contêineres para recursos relacionados
+- Assinaturas: Unidade de cobrança e gerenciamento
 
 # Principais Serviços
 
-Computação: Virtual Machines, App Services, Azure Functions
-Rede: Virtual Networks, Load Balancer, Application Gateway
-Armazenamento: Blob Storage, File Storage, Queue Storage
-Banco de Dados: SQL Database, Cosmos DB, MySQL
-
-# Soluções Principais
-
-IoT (Internet of Things): IoT Central, IoT Hub
-Big Data e Analytics: Synapse Analytics, HDInsight, Data Lake
-Inteligência Artificial: Cognitive Services, Machine Learning, Bot Service
-DevOps: Azure DevOps, GitHub Actions
+- Computação: Virtual Machines, App Services, Azure Functions
+- Rede: Virtual Networks, Load Balancer, Application Gateway
+- Armazenamento: Blob Storage, File Storage, Queue Storage
+- Banco de Dados: SQL Database, Cosmos DB, MySQL
 
 # Ferramentas de Gerenciamento
 
-Portal do Azure: Interface web para gerenciamento
-Azure CLI: Interface de linha de comando
-Azure PowerShell: Cmdlets para automação
-Azure Mobile App: Gerenciamento via dispositivos móveis
+- Portal do Azure: Interface web para gerenciamento
+- Azure CLI: Interface de linha de comando
+- Azure PowerShell: Cmdlets para automação
+- Azure Mobile App: Gerenciamento via dispositivos móveis
 
-# Segurança Geral
-
-Azure Security Center: Monitoramento e recomendações de segurança
-Azure Sentinel: Solução SIEM (Security Information and Event Management)
-Azure Key Vault: Gerenciamento seguro de chaves e segredos
-
-# Segurança de Rede
-
-Grupos de Segurança de Rede (NSG): Filtragem de tráfego
-Azure Firewall: Firewall como serviço
-DDoS Protection: Proteção contra ataques distribuídos
 
 # Recursos de Identidade 
 
-Azure Active Directory (Azure AD): Serviço de identidade e acesso
-Autenticação Multifator (MFA): Camada adicional de segurança
-Acesso Condicional: Políticas baseadas em contexto
+- Azure Active Directory (Azure AD): Serviço de identidade e acesso
+- Autenticação Multifator (MFA): Camada adicional de segurança
+- Acesso Condicional: Políticas baseadas em contexto
 
 # Governança
 
-Azure Policy: Aplicação de regras organizacionais
-Controle de Acesso Baseado em Função (RBAC): Gerenciamento de permissões
-Azure Blueprints: Modelos para implantação padronizada
+- Azure Policy: Aplicação de regras organizacionais
+- Controle de Acesso Baseado em Função (RBAC): Gerenciamento de permissões
+- Azure Blueprints: Modelos para implantação padronizada
 
 # Conformidade e Privacidade
 
-Trust Center: Informações sobre conformidade
-Termos de Serviços Online: Acordos legais
-Declaração de Privacidade: Proteção de dados pessoais
+- Trust Center: Informações sobre conformidade
+- Termos de Serviços Online: Acordos legais
+- Declaração de Privacidade: Proteção de dados pessoais
 
 # Gerenciamento de Custos
 
-Calculadora de Preços: Estimativa de custos
-Calculadora de TCO: Comparação com infraestrutura local
-Azure Cost Management: Monitoramento e análise de gastos
+- Calculadora de Preços: Estimativa de custos
+- Calculadora de TCO: Comparação com infraestrutura local
+- Azure Cost Management: Monitoramento e análise de gastos
 
 # Acordos de Nível de Serviço (SLA)
 
-Definições de SLA: Compromissos de disponibilidade
-SLA Composto: Cálculo para múltiplos serviços
-Créditos de Serviço: Compensação por indisponibilidade
+- Definições de SLA: Compromissos de disponibilidade
+- SLA Composto: Cálculo para múltiplos serviços
+- Créditos de Serviço: Compensação por indisponibilidade
